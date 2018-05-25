@@ -6,3 +6,5 @@ Proyecto de escritorio para Java, con base de datos en MySQL
 
 1. Configuración inicial
 2. 
+
+otras cosas
